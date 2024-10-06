@@ -1,4 +1,4 @@
-# **Project 3 - Gans**
+# **Project 3 - ETL Pipeline Project: Gans**
 
 Welcome to the **Gans** project! I was hired again by the imaginary company called **Gans** which is a startup developing an e-scooter-sharing system, and dreaming of increased usage of e-scooters in big cities.
 However, this time it was different. There was no ready-to-use database, but I would have to create one from scratch. 
