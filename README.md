@@ -7,8 +7,8 @@ This project involves developing a complete **ETL (Extract, Transform, Load) pip
 ## Key Features
 
 1. **Data extraction**
-   -> **Web Scraping**: to help the company, we first need to have a closer look at the most populated cities in Germany (in my case I focused analysis on Berlin, Hamburg and Munich)
-   -> **APIs** : APIs provide a structured and standardized means of accessing and retrieving data. In this project I used weather and flight APIs
+      **Web Scraping**: to help the company, we first need to have a closer look at the most populated cities in Germany (in my case I focused analysis on Berlin, Hamburg and Munich)
+      **APIs** : APIs provide a structured and standardized means of accessing and retrieving data. In this project I used weather and flight APIs
    
 2. **Data transformation**: clean and process the extracted data using Python and Pandas
    
