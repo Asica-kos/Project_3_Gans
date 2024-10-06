@@ -17,7 +17,7 @@ This project involves developing a complete **ETL (Extract, Transform, Load) pip
 4. **Data storage**: loading the clean, transformed data into a SQL database, where it is stored in organized tables
 
 
-## What we've learnt?
+## What I've learnt?
 
 1. **Building an End-to-End ETL Pipeline**: learn how to design and implement a full ETL (Extract, Transform, Load) pipeline that automates data collection, transformation, and storage.
 2. **Working with APIs**: gaining experience in accessing and retrieving data from APIs
