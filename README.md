@@ -19,9 +19,13 @@ This project involves developing a complete **ETL (Extract, Transform, Load) pip
 
 ## What I've learnt?
 
-1. **Building an End-to-End ETL Pipeline**: learn how to design and implement a full ETL (Extract, Transform, Load) pipeline that automates data collection, transformation, and storage.
-2. **Working with APIs**: gaining experience in accessing and retrieving data from APIs
-3. **Data Cleaning and Transformation with Pandas**: strengthening my skills in data manipulation using Python and Pandas
-4. **SQL Database Management**: mastering the fundamentals of SQL databases, including how to design database schemas, create tables, and insert data efficiently
-5. **Automation and Workflow Optimization**: discovering how ETL pipelines benefit from automated data processing and storage
+1. **Building an End-to-End ETL Pipeline**: learn how to design and implement a full ETL (Extract, Transform, Load) pipeline that automates data collection, transformation, and storage
+   
+3. **Working with APIs**: gaining experience in accessing and retrieving data from APIs
+   
+5. **Data Cleaning and Transformation with Pandas**: strengthening my skills in data manipulation using Python and Pandas
+   
+7. **SQL Database Management**: mastering the fundamentals of SQL databases, including how to design database schemas, create tables, and insert data efficiently
+   
+9. **Automation and Workflow Optimization**: discovering how ETL pipelines benefit from automated data processing and storage
 
